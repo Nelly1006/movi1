@@ -8,3 +8,4 @@ document.getElementById('iniciarBtn').addEventListener('click', function() {
         alert('Por favor, escanea un código QR válido.');
     }
 });
+
