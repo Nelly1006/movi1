@@ -24,3 +24,4 @@ document.getElementById("register-form").addEventListener("submit", function(eve
         alert("Registro exitoso.");
     }
 });
+
